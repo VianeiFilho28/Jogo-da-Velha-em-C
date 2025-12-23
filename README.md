@@ -1,2 +1,4 @@
 # Jogo-da-Velha-em-C
-Trabalho Final de Programação COmputacional/Computer Programming Final Project
+Este projeto foi desenvolvido como trabalho final da disciplina de Programação Computacional, realizado em colaboração com Gabriel Farias Magalhães e Francisco Jonathan Lima Paula. O objetivo foi construir uma aplicação interativa que permitisse a competição entre dois jogadores, servindo como uma aplicação prática dos nossos conhecimentos em Linguagem C, abrangendo desde lógica estruturada até manipulação de matrizes e validação de dados.
+
+This project was developed as the final assignment for the Computer Programming course, in collaboration with Gabriel Farias Magalhães and Francisco Jonathan Lima Paula. The goal was to build an interactive application for two players to compete, serving as a practical application of our C programming skills, covering everything from structured logic to array manipulation and data validation.
